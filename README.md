@@ -1,4 +1,28 @@
-<h2 align="left">STATS</h2>
+<h3 align="left">ABOUT ME</h3>
+
+###
+
+<p align="left">- FrontEnd Developer<br>- Trainee at @emprelrecife<br>- BackEnd Student</p>
+
+###
+
+<h3 align="left">TECHS</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+</div>
+
+###
+
+<h3 align="left">STATS</h3>
 
 ###
 
