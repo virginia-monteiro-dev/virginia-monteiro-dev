@@ -17,7 +17,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="http://www.w3.org/2000/svg" height="40" alt="figma logo" />
+  
   <img width="12" />
 </div>
 
